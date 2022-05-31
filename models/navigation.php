@@ -2,7 +2,7 @@
 
 <?php
     $menu = [
-        "Accueil" => "/HTML CSS/cours_2", 
+        "Accueil" => "/repo/HTML_MVC", 
         "Catégories" => [
             "Hardware" => "?page=categories&categId=1", 
             "Reseau" => "?page=categories&categId=2", 

@@ -1,0 +1,43 @@
+/* specifie que presentation est une class qui porte sur div, utile quand on utilise la meme classe pour different element */
+div.container{
+    width: 1140px;
+    /* margin auto necessite une taille definie
+    margin: auto auto auto auto
+    margin: top right bottom left */
+    margin:auto;
+    /* la derniere valeur lue est la derniere valeur interpretee */
+    margin-top: 60px;
+    /* margin:60px auto auto auto */
+}
+
+div.presentation{
+    background-color: #18c5cc;
+    width: 360px;
+    height: 625px;
+}
+
+div.cartable{
+    width: 360px;
+    height: 312px;
+}
+
+div.pomme{
+    width: 360px;
+    height: 312px;
+}
+
+div.title{
+
+}
+
+div.clock{
+
+}
+
+div.unif{
+
+}
+
+div.description{
+
+}
